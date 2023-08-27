@@ -2,7 +2,7 @@
 
 <img src="https://github.com/JHyun0302/server/assets/60764632/f9505a30-a5cf-426f-bc4d-aa7f046246cd"  width="600" height="300"/>
 
-### 수업명 : [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
+### 강의명 : [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
 
 - 지식공유자 : 김영한
 
